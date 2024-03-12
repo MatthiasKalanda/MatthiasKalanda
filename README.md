@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ~~Software Engineer/Programmer 
+- 👋 Hi, I’m Matthias Kalanda~~Software Engineer/Programmer 
 - 👀 I’m interested in AI and ML ,Python Programming, Computer Vision...
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on many projects in that line
